@@ -8,7 +8,7 @@ requests==2.21.0
 ```
 
 ## Usage
-  python wallpaper.py config.cfg images log.txt
+  ```python wallpaper.py config.cfg images log.txt```
 
 You can change the names and the path to these file as you wish.
 
