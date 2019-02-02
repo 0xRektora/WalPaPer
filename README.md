@@ -12,6 +12,20 @@ requests==2.21.0
 
 You can tweak the names and the path for these files if you feel it to.
 
+## Config
+You can change the `config.cgf` if you feel it to, i use [Wallhaven](https://alpha.wallhaven.cc/) to gather the images, it'll only work with it, you can check the website and add query parameters based on the GET URL, e.i: https://alpha.wallhaven.cc/search?q=universe+space&categories=111&purity=100&resolutions=1920x1080&sorting=random&order=desc
+Would be :
+```
+[config]
+resolutions=1920x1080
+categories=111
+purity=100
+sorting=relevance
+order=desc
+[search]
+keyword=universe+space
+```
+You can try to mess with the site and the research function and use the parameters you need, just make sure you don't misspell it.
 
 ## Demo
 
