@@ -1,0 +1,1 @@
+SchTasks /Create /RL HIGHEST /SC ONLOGON /TN "Wallpaper_Update" /TR "wallpaper.py config.cfg images log.txt" 
