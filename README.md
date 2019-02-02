@@ -1,5 +1,7 @@
 # WalPaPer
 A simple python script than can download wallpapers and change the current one.
+It'll only works with windows.
+I use it myself with Windows automatic task, and basically call the script once the user log in.
 
 ## Requierments
 ```
