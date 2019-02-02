@@ -10,9 +10,8 @@ requests==2.21.0
 ## Usage
   ```python wallpaper.py config.cfg images log.txt```
 
-You can change the names and the path to these file as you wish.
+You can tweak the names and the path for these files if you feel it to.
 
-:warning: MAKE SURE YOU USE THE FULL PATH AND NOT THE RELATIVE ONE :warning:
 
 ## Demo
 
