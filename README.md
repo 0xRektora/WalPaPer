@@ -16,7 +16,7 @@ Call the script as below :
 You can tweak the names and the path for these files if you feel it to.
 
 ## Automatisation
-You can call the script `addTask.bat` to automatically add a new task that'll be called once the user logon.
+You can call the script **as an administrator** `addTask.bat` to automatically add a new task that'll be called once the user logon.
 
 ## Config
 You can change the `config.cgf` if you feel it to, i use [Wallhaven](https://alpha.wallhaven.cc/) to gather the images, it'll only work with it, you can check the website and add query parameters based on the GET URL, e.i: https://alpha.wallhaven.cc/search?q=universe+space&categories=111&purity=100&resolutions=1920x1080&sorting=random&order=desc
